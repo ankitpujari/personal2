@@ -1,0 +1,170 @@
+body {background-image: linear-gradient(lightskyblue,white);
+margin-bottom: 0;}
+
+.top {
+  color: BLACK;
+  padding-top: 50px;
+  margin: 0;
+
+  }
+
+h1 {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0;
+  font-family: 'Yellowtail', cursive;
+  font-size: 90px;
+  width: 400px;
+line-height: 2;
+color: dimgrey;
+}
+
+h2 {
+  font-family: 'Raleway', sans-serif;
+  color: dimgrey;
+  font-weight: bold;
+}
+
+h3 {
+  font-family: 'Raleway', sans-serif;
+  font-weight: bold;
+
+}
+
+.left {text-align: left;
+color:dimgrey;
+margin-left: auto;
+margin-right: auto;
+}
+
+.left1 {text-align: left;
+margin-left: auto;
+margin-right: auto;
+line-height: 1.5;}
+
+body {
+  text-align: center;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  font-family: 'Raleway', sans-serif;
+}
+
+p {
+  font-size: 18px;
+font-weight: bold;}
+
+.subtitle {
+  position: relative;
+  bottom: 70px;
+}
+
+.middle {
+  height: 200px;
+  width: 200px;
+  background-color: blue;
+}
+
+.bottom {
+  height: 200px;
+  width: 200px;
+  background-color: red;
+}
+
+.bottomcloud {
+  position: absolute;
+}
+
+.topcloud {
+  position: relative;
+  left: 300px;
+  top: 50px;
+}
+
+.psd {
+
+  width: 40px;
+  margin-right: 20px;
+float: left;}
+
+.ai {
+margin-top: 0;
+  width: 40px;
+  margin-right: 20px;
+  float: left;
+}
+
+.excel {
+  height: 40px;
+  width: 40px;
+  margin-right: 20px;
+float: left;}
+
+.word {
+  height: 40px;
+  width: 40px;
+  margin-right: 20px;
+  float: left;
+
+}
+
+.btn {
+  color:white;
+  background-color: dimgrey;
+  border-radius: 8px;
+padding-left: 20px;
+padding-right: 20px;
+padding-top: 5px;
+padding-bottom: 5px;
+
+  text-decoration: none;
+
+
+}
+
+.twitter {
+  color:white;
+  padding-right: 30px;
+  text-decoration: none;
+}
+
+.instagram {
+  color:white;
+  text-decoration: none;
+}
+
+.skill-row {width: 50%;
+margin-left: auto;
+margin-right: auto;
+text-align: left;}
+
+.logo {padding-top: 10px;}
+
+.nerd {margin-top: 40px;}
+
+.graphic {width: 200px;
+float: left;
+margin-right: 40px;}
+
+.icons {width: 50%;
+margin-left: 520px;
+margin-right: auto;
+text-align: left;}
+
+hr {
+border-style: dotted;
+border-width: 6px;
+border-color: dimgrey;
+width: 15%;
+border-bottom: none;
+
+}
+
+.bottom-container {background-color: dimgrey;
+padding: 40px;
+margin-bottom: 0;}
+
+.btn:hover {background-color: lightskyblue;}
+
+
+.education {padding: 20px;}
